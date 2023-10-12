@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "delete_later",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4\n\n\n\nmtcars%>%\nggplot(aes(x=wt, y=mpg)) +\ngeom_point() +\ngeom_smooth(method = 'lm', se =F)+\nlabs(\ntitle= \"Efficiency of cars vs engine weight\",\nx = \"Engine Weight\",\ny = \"Miles per Gallon\"\n)\n\n`geom_smooth()` using formula = 'y ~ x'"
   },
   {
     "objectID": "about.html",
